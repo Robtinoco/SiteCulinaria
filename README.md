@@ -73,7 +73,3 @@ npm run dev
 - Dagoberto do Nascimento(https://github.com/DagobertoCadilhe)
 - Thiago Costa (https://github.com/ThiagoBianchini)
 - João Gabriel
-
-## Contribuição
-
-Por favor, leia as diretrizes de contribuição antes de submeter pull requests.
