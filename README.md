@@ -67,7 +67,7 @@ npm run dev
 - Moderação de conteúdo
 
 ##Contribuidores:
-- Roberto Tinoco (https://github.com/Robtinoco)
 - Dagoberto do Nascimento(https://github.com/DagobertoCadilhe)
+- Roberto Tinoco (https://github.com/Robtinoco)
 - Thiago Costa (https://github.com/ThiagoBianchini)
 - João Gabriel
