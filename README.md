@@ -66,7 +66,7 @@ npm run dev
 - Publicação de receitas com título, ingredientes e passos
 - Moderação de conteúdo
 
-**Líderes do Projeto:**
+##Contribuidores:
 - Roberto Tinoco (https://github.com/Robtinoco)
 - Dagoberto do Nascimento(https://github.com/DagobertoCadilhe)
 - Thiago Costa (https://github.com/ThiagoBianchini)
