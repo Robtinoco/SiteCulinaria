@@ -28,19 +28,20 @@ FoodBytes é uma aplicação web e mobile dedicada a criar uma comunidade intera
 - npm (Node Package Manager)
 
 ### Instalação
+1. Clonar o repositório
 
-1. Instale as dependências:
+2. Instale as dependências:
 ```bash
 cd SiteCulinariaPB
 npm install
 ```
 
-2. Inicie o servidor da API:
+3. Inicie o servidor da API:
 ```bash
 npx json-server --watch db.json --port 3001
 ```
 
-3. Inicie a aplicação web:
+4. Inicie a aplicação web:
 ```bash
 npm run dev
 ```
