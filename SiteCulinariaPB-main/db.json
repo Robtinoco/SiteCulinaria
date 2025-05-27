@@ -1,0 +1,535 @@
+{
+  "receitas": [
+    {
+      "id": "1",
+      "receita": "Bolo de Chocolate",
+      "link_imagem": "https://cdn0.tudoreceitas.com/pt/posts/2/9/9/bolo_de_chocolate_cremoso_5992_orig.jpg",
+      "ingredientes": [
+        "2 xícaras de farinha",
+        "1 xícara de chocolate em pó",
+        "3 ovos",
+        "1 xícara de leite"
+      ],
+      "modo_preparo": "1. Misture os ingredientes secos com os líquidos e mexa bem. 2. Despeje a massa em uma forma untada. 3. Asse em forno pré-aquecido a 180°C por 35 minutos.",
+      "tempo_preparo": "45 minutos"
+    },
+    {
+      "id": "2",
+      "receita": "Pão de Queijo",
+      "link_imagem": "https://i.panelinha.com.br/i1/228-bk-3076-blog-ayu2859.webp",
+      "ingredientes": [
+        "500g de polvilho doce",
+        "200g de queijo minas ralado",
+        "3 ovos",
+        "1 xícara de leite"
+      ],
+      "modo_preparo": "1. Misture o polvilho com o leite quente até formar uma massa. 2. Acrescente o queijo e os ovos. 3. Modele bolinhas e asse a 200°C por 20 minutos.",
+      "tempo_preparo": "30 minutos"
+    },
+    {
+      "id": "3",
+      "receita": "Feijoada",
+      "link_imagem": "https://areademulher.r7.com/wp-content/uploads/2022/03/feijoada-receita-completa-tradicional.jpg",
+      "ingredientes": [
+        "1kg de feijão preto",
+        "500g de carne seca",
+        "300g de linguiça",
+        "200g de costelinha"
+      ],
+      "modo_preparo": "1. Deixe o feijão de molho por 12 horas. 2. Cozinhe as carnes separadamente e adicione ao feijão. 3. Tempere a gosto e deixe cozinhar por 2 horas.",
+      "tempo_preparo": "3 horas"
+    },
+    {
+      "id": "4",
+      "receita": "Pizza Marguerita",
+      "link_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Pizza_Margherita_stu_spivack.jpg/1200px-Pizza_Margherita_stu_spivack.jpg",
+      "ingredientes": [
+        "1 massa para pizza",
+        "200g de molho de tomate",
+        "200g de mussarela",
+        "Folhas de manjericão"
+      ],
+      "modo_preparo": "1. Espalhe o molho sobre a massa. 2. Cubra com a mussarela e o manjericão. 3. Asse a 220°C por 15 minutos.",
+      "tempo_preparo": "25 minutos"
+    },
+    {
+      "id": "5",
+      "receita": "Panqueca Americana",
+      "link_imagem": "https://areademulher.r7.com/wp-content/uploads/2022/03/panqueca-americana-a-receita-original-1200x675.webp",
+      "ingredientes": [
+        "1 xícara de farinha",
+        "1 colher de sopa de açúcar",
+        "1 xícara de leite",
+        "1 ovo"
+      ],
+      "modo_preparo": "1. Misture todos os ingredientes até formar uma massa homogênea. 2. Frite pequenas porções em uma frigideira untada. 3. Sirva com mel ou geleia.",
+      "tempo_preparo": "20 minutos"
+    },
+    {
+      "id": "6",
+      "receita": "Brigadeiro",
+      "link_imagem": "https://www.grupopq.com.br/wp-content/uploads/2023/09/SITE-4-1024x1024.jpg",
+      "ingredientes": [
+        "1 lata de leite condensado",
+        "2 colheres de sopa de chocolate em pó",
+        "1 colher de sopa de manteiga",
+        "Granulado"
+      ],
+      "modo_preparo": "1. Misture o leite condensado, chocolate em pó e manteiga em fogo baixo até desgrudar do fundo da panela. 2. Modele bolinhas e passe no granulado.",
+      "tempo_preparo": "15 minutos"
+    },
+    {
+      "id": "7",
+      "receita": "Moqueca de Peixe",
+      "link_imagem": "https://minhasreceitinhas.com.br/wp-content/uploads/2022/06/moqueca-de-peixe-baiana-1200x800.jpg",
+      "ingredientes": [
+        "500g de peixe em postas",
+        "200ml de leite de coco",
+        "1 pimentão",
+        "2 tomates",
+        "1 cebola"
+      ],
+      "modo_preparo": "1. Tempere o peixe com sal e limão. 2. Cozinhe o peixe com os vegetais e o leite de coco em fogo baixo. 3. Sirva quente.",
+      "tempo_preparo": "40 minutos"
+    },
+    {
+      "id": "8",
+      "receita": "Coxinha",
+      "link_imagem": "https://cdn0.tudoreceitas.com/pt/posts/1/9/1/coxinha_simples_191_orig.jpg",
+      "ingredientes": [
+        "500g de farinha",
+        "1 litro de caldo de galinha",
+        "500g de frango desfiado",
+        "Farinha de rosca"
+      ],
+      "modo_preparo": "1. Misture o caldo e a farinha até formar uma massa. 2. Modele as coxinhas recheadas com o frango. 3. Passe na farinha de rosca e frite.",
+      "tempo_preparo": "1 hora"
+    },
+    {
+      "id": "9",
+      "receita": "Risoto de Frango",
+      "link_imagem": "https://i.ytimg.com/vi/jmCDwqpPOOk/maxresdefault.jpg",
+      "ingredientes": [
+        "1 xícara de arroz arbóreo",
+        "500g de frango desfiado",
+        "1 cebola",
+        "1/2 xícara de vinho branco"
+      ],
+      "modo_preparo": "1. Refogue a cebola e o arroz. 2. Adicione o vinho e o caldo aos poucos. 3. Acrescente o frango e sirva quente.",
+      "tempo_preparo": "40 minutos"
+    },
+    {
+      "id": "10",
+      "receita": "Hambúrguer Artesanal",
+      "link_imagem": "https://www.estadao.com.br/resizer/v2/L3LYN5Y4MRG6BB47MNHEEXDRGA.jpeg?quality=80&auth=c4f56563b2c83e506971bce35dbc505a5ecdf7d89a70d2f2c5fbb8b0c7071e5f&width=1200&height=900&smart=true",
+      "ingredientes": [
+        "200g de carne moída",
+        "1 pão de hambúrguer",
+        "1 fatia de queijo",
+        "Alface e tomate"
+      ],
+      "modo_preparo": "1. Modele e grelhe o hambúrguer. 2. Monte o sanduíche com os outros ingredientes. 3. Sirva com batatas fritas.",
+      "tempo_preparo": "20 minutos"
+    },
+    {
+      "id": "11",
+      "receita": "Sopa de Legumes",
+      "link_imagem": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/855ad695b82075e4031b92cedc43a12d.jpg",
+      "ingredientes": [
+        "3 batatas",
+        "2 cenouras",
+        "1 chuchu",
+        "1 cebola",
+        "2 litros de água"
+      ],
+      "modo_preparo": "1. Cozinhe todos os legumes até amolecerem. 2. Bata no liquidificador com o caldo. 3. Sirva com torradas.",
+      "tempo_preparo": "35 minutos"
+    },
+    {
+      "id": "12",
+      "receita": "Torta de Limão",
+      "link_imagem": "https://img.band.uol.com.br/image/2023/05/29/torta-de-limao-184350.jpg",
+      "ingredientes": [
+        "1 pacote de biscoito de maisena",
+        "1 lata de leite condensado",
+        "1/2 xícara de suco de limão",
+        "1 lata de creme de leite"
+      ],
+      "modo_preparo": "1. Triture o biscoito e misture com manteiga para formar a base. 2. Misture o leite condensado, suco de limão e creme de leite. 3. Despeje sobre a base e leve à geladeira.",
+      "tempo_preparo": "2 horas"
+    },
+    {
+      "id": "13",
+      "receita": "Cuscuz Temperado Nordestino",
+      "link_imagem": "https://i.ytimg.com/vi/LbUSCh8Simg/maxresdefault.jpg",
+      "ingredientes": [
+        "1 xícara de farinha de milho",
+        "100g de bacon picado",
+        "1 cebola picada",
+        "1 tomate picado",
+        "1 pimentão picado",
+        "Coriandro a gosto",
+        "Sal e pimenta-do-reino a gosto"
+      ],
+      "modo_preparo": "1. Refogue o bacon até dourar. 2. Adicione a cebola, tomate, pimentão e deixe cozinhar até amolecer. 3. Acrescente a farinha de milho e misture bem. 4. Cozinhe com um pouco de água até o cuscuz ficar macio. 5. Finalize com coentro e ajuste o tempero com sal e pimenta.",
+      "tempo_preparo": "40 minutos"
+    },
+    {
+      "id": "14",
+      "receita": "Bacalhau à Brás",
+      "link_imagem": "https://foodandroad.com/wp-content/uploads/2021/04/bacalhau-bras-1.jpg",
+      "ingredientes": [
+        "500g de bacalhau desfiado",
+        "500g de batata palha",
+        "4 ovos",
+        "1 cebola",
+        "Azeitonas"
+      ],
+      "modo_preparo": "1. Refogue a cebola e acrescente o bacalhau. 2. Misture as batatas palha e os ovos batidos. 3. Deixe cozinhar até os ovos ficarem firmes.",
+      "tempo_preparo": "40 minutos"
+    },
+    {
+      "id": "15",
+      "receita": "Pavê de Chocolate",
+      "link_imagem": "https://i.ytimg.com/vi/RPh7Y8Y6uCo/maxresdefault.jpg",
+      "ingredientes": [
+        "1 pacote de biscoito champagne",
+        "2 xícaras de leite",
+        "2 colheres de sopa de cacau em pó",
+        "1 lata de creme de leite"
+      ],
+      "modo_preparo": "1. Molhe os biscoitos no leite. 2. Prepare o creme de chocolate com o leite, cacau e creme de leite. 3. Monte em camadas e leve à geladeira.",
+      "tempo_preparo": "2 horas"
+    },
+    {
+      "id": "16",
+      "receita": "Mousse de Maracujá",
+      "link_imagem": "https://receitadaboa.com.br/wp-content/uploads/2024/07/iStock-1426234346-scaled.jpg",
+      "ingredientes": [
+        "1 lata de leite condensado",
+        "1 lata de creme de leite",
+        "1/2 xícara de suco de maracujá",
+        "1 pacote de gelatina sem sabor"
+      ],
+      "modo_preparo": "1. Dissolva a gelatina e misture com o leite condensado, creme de leite e suco de maracujá. 2. Bata no liquidificador até ficar cremoso. 3. Deixe na geladeira por 2 horas.",
+      "tempo_preparo": "2 horas"
+    },
+    {
+      "id": "17",
+      "receita": "Arroz de Pato",
+      "link_imagem": "https://assets.unileversolutions.com/recipes-v2/215761.jpg",
+      "ingredientes": [
+        "1 pato",
+        "2 xícaras de arroz",
+        "1 cenoura",
+        "1 pimentão",
+        "1 cebola"
+      ],
+      "modo_preparo": "1. Cozinhe o pato e desfie a carne. 2. Refogue a cenoura, pimentão e cebola. 3. Misture o arroz e o caldo do pato e cozinhe até ficar pronto.",
+      "tempo_preparo": "1 hora e 30 minutos"
+    },
+    {
+      "id": "18",
+      "receita": "Escondidinho de Carne Seca",
+      "link_imagem": "https://www.saboresajinomoto.com.br/uploads/images/recipes/escondidinho-com-carne-seca.jpg",
+      "ingredientes": [
+        "500g de carne seca desfiada",
+        "2 batatas grandes",
+        "1 cebola",
+        "Queijo ralado"
+      ],
+      "modo_preparo": "1. Cozinhe as batatas e faça um purê. 2. Refogue a carne seca e a cebola. 3. Monte em camadas, cobrindo com o purê e queijo. 4. Asse até dourar.",
+      "tempo_preparo": "1 hora"
+    },
+    {
+      "id": "19",
+      "receita": "Churrasco",
+      "link_imagem": "https://revistamenu.com.br/wp-content/uploads/sites/24/2024/04/churrasco.jpg",
+      "ingredientes": [
+        "1kg de carne (picanha, alcatra, etc.)",
+        "Sal grosso",
+        "Carvão"
+      ],
+      "modo_preparo": "1. Tempere a carne com sal grosso. 2. Grelhe a carne na churrasqueira até atingir o ponto desejado.",
+      "tempo_preparo": "1 hora"
+    },
+    {
+      "id": "20",
+      "receita": "Feijão Tropeiro",
+      "link_imagem": "https://espaconatelie.com.br/wp-content/uploads/2024/09/feijao-tropeiro.jpg",
+      "ingredientes": [
+        "500g de feijão carioca",
+        "200g de linguiça",
+        "200g de bacon",
+        "Farinha de mandioca"
+      ],
+      "modo_preparo": "1. Cozinhe o feijão e reserve. 2. Frite o bacon e a linguiça. 3. Misture o feijão com a carne e a farinha de mandioca.",
+      "tempo_preparo": "1 hora"
+    },
+    {
+      "id": "21",
+      "receita": "Torta de Frango",
+      "link_imagem": "https://i.ytimg.com/vi/C5GqgGOma9c/maxresdefault.jpg",
+      "ingredientes": [
+        "500g de peito de frango desfiado",
+        "1 pacote de massa folhada",
+        "1 cebola",
+        "2 dentes de alho",
+        "1 xícara de requeijão"
+      ],
+      "modo_preparo": "1. Cozinhe e desfie o frango. 2. Refogue a cebola e o alho, acrescente o frango e o requeijão. 3. Modele a massa folhada em uma forma, coloque o recheio e asse até dourar.",
+      "tempo_preparo": "50 minutos"
+    },
+    {
+      "id": "1732510580820",
+      "receita": "Crepioca",
+      "link_imagem": "https://s2-receitas.glbimg.com/ky8ywcBIJ8vslTImOhtIfrigx2s=/0x0:1200x675/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2024/X/L/QBdwJ5RW2GDnKdQDxQyw/crepioca.jpg",
+      "ingredientes": [
+        "2 colheres de sopa de goma de tapioca",
+        "1 ovo",
+        "1 pitada de sal",
+        "Óleo ou manteiga para untar a frigideira"
+      ],
+      "modo_preparo": "1. Em uma tigela, misture a goma de tapioca, o ovo, o queijo e o sal até formar uma massa homogênea. 2. Aqueça uma frigideira untada e despeje a massa. 3. Cozinhe por cerca de 2 minutos de cada lado até dourar e ficar firme. 4. Sirva quente, podendo rechear com o que preferir (como presunto, queijo ou vegetais).",
+      "tempo_preparo": "8 minutos"
+    },
+    {
+      "id": "1733106309819",
+      "receita": "Bolo de Cenoura",
+      "link_imagem": "https://static.itdg.com.br/images/360-240/d290bc79bcad112ee9095604e45eb262/365326-original.jpg",
+      "ingredientes": [
+        "4 cenouras médias",
+        "4 ovos",
+        "1 xícara de óleo"
+      ],
+      "modo_preparo": "1. Preaqueça o forno a 180°C e unte uma forma com óleo e farinha. 2. Bata as cenouras, os ovos, o óleo e o açúcar no liquidificador até ficar homogêneo. 3. Adicione a farinha e o fermento, misture bem. 4. Despeje a massa na forma e leve ao forno por 40 minutos ou até o bolo ficar dourado e firme ao toque. 5. Após esfriar, decore com cobertura de chocolate, se desejar.",
+      "tempo_preparo": "50 minutos"
+    },
+    {
+      "id": "1733106928869",
+      "receita": "Ensopado de Bagre",
+      "link_imagem": "https://s2-receitas.glbimg.com/IXlxeKd-PSDPR9Z09guzY1Dhso8=/0x0:4608x3456/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2014/09/20/15_54_16_811_DSC01893.JPG",
+      "ingredientes": [
+        "500g de filé de bagre",
+        "2 tomates picados",
+        "1 cebola picada",
+        "3 dentes de alho picados",
+        "1 pimentão verde picado",
+        "1 pimentão vermelho picado",
+        "1 cenoura cortada em rodelas",
+        "1 batata cortada em cubos",
+        "2 colheres de sopa de óleo de oliva",
+        "1 litro de caldo de peixe ou água",
+        "1 ramo de cheiro-verde picado",
+        "Sal e pimenta-do-reino a gosto",
+        "Suco de 1 limão"
+      ],
+      "modo_preparo": "1. Tempere os filés de bagre com o suco de limão, sal e pimenta-do-reino. Reserve. 2. Em uma panela grande, aqueça o óleo e refogue a cebola, o alho e os pimentões até ficarem macios. 3. Adicione os tomates e cozinhe até desmancharem. 4. Acrescente as cenouras, batatas e o caldo de peixe, e deixe cozinhar por 10 minutos. 5. Coloque os filés de bagre e cozinhe por mais 10 minutos, ou até o peixe ficar bem cozido e macio. 6. Finalize com o cheiro-verde picado e ajuste o sal. Sirva quente.",
+      "tempo_preparo": "40 minutos"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "10 Receitas Rápidas para o Dia a Dia",
+      "author": "Maria Silva",
+      "date": "25 de Novembro de 2024",
+      "imageUrl": "/images/blog-post-1.jpg",
+      "excerpt": "Descubra receitas deliciosas e fáceis de preparar em menos de 30 minutos...",
+      "fullContent": "<p>Texto completo do post...</p><h2>Receitas Incríveis</h2><p>Detalhes e instruções...</p>"
+    },
+    {
+      "id": "2",
+      "title": "Como Organizar sua Rotina na Cozinha",
+      "author": "Carlos Santos",
+      "date": "24 de Novembro de 2024",
+      "imageUrl": "/images/blog-post-2.jpg",
+      "excerpt": "Dicas essenciais para otimizar o tempo e manter sua cozinha funcional.",
+      "fullContent": "<p>Texto completo do post...</p><h2>Organize-se!</h2><p>Passos práticos para organização...</p>"
+    },
+    {
+      "id": "3",
+      "title": "Os Benefícios de Ingredientes Naturais",
+      "author": "Ana Souza",
+      "date": "23 de Novembro de 2024",
+      "imageUrl": "/images/blog-post-3.jpg",
+      "excerpt": "Saiba como os ingredientes naturais podem melhorar sua saúde.",
+      "fullContent": "<p>Texto completo do post...</p><h2>Viva com saúde</h2><p>Benefícios e dicas...</p>"
+    },
+    {
+      "id": "4",
+      "title": "Receitas Veganas Simples e Saborosas",
+      "author": "Paulo Oliveira",
+      "date": "22 de Novembro de 2024",
+      "imageUrl": "/images/blog-post-4.jpg",
+      "excerpt": "Experimente estas receitas veganas práticas para o dia a dia.",
+      "fullContent": "<p>Texto completo do post...</p><h2>Cozinha Vegana</h2><p>Receitas e curiosidades...</p>"
+    },
+    {
+      "id": "5",
+      "title": "Os Segredos de um Bom Café da Manhã",
+      "author": "Clara Mendes",
+      "date": "21 de Novembro de 2024",
+      "imageUrl": "/images/blog-post-5.jpg",
+      "excerpt": "Torne suas manhãs mais energéticas e saborosas com estas dicas.",
+      "fullContent": "<p>Texto completo do post...</p><h2>Manhãs Perfeitas</h2><p>Dicas para começar bem o dia...</p>"
+    },
+    {
+      "id": "6",
+      "title": "5 Sobremesas que Você Precisa Experimentar",
+      "author": "Gabriel Costa",
+      "date": "20 de Novembro de 2024",
+      "imageUrl": "/images/blog-post-6.jpg",
+      "excerpt": "Descubra as sobremesas mais irresistíveis para adoçar sua semana.",
+      "fullContent": "<p>Texto completo do post...</p><h2>Delícias Doces</h2><p>Receitas detalhadas...</p>"
+    },
+    {
+      "id": "7",
+      "title": "O Guia Completo para Fazer Pães em Casa",
+      "author": "Juliana Rocha",
+      "date": "19 de Novembro de 2024",
+      "imageUrl": "/images/blog-post-7.jpg",
+      "excerpt": "Tudo o que você precisa saber para começar a fazer pães deliciosos em casa.",
+      "fullContent": "<p>Texto completo do post...</p><h2>Arte de Fazer Pães</h2><p>Processos e segredos...</p>"
+    },
+    {
+      "id": "8",
+      "title": "10 Molhos que Transformam Qualquer Prato",
+      "author": "Ricardo Lima",
+      "date": "18 de Novembro de 2024",
+      "imageUrl": "/images/blog-post-8.jpg",
+      "excerpt": "Adicione sabor às suas receitas com estes molhos incríveis.",
+      "fullContent": "<p>Texto completo do post...</p><h2>Molhos Especiais</h2><p>Receitas e combinações...</p>"
+    },
+    {
+      "id": "9",
+      "title": "Como Planejar um Almoço de Domingo Perfeito",
+      "author": "Fernanda Alves",
+      "date": "17 de Novembro de 2024",
+      "imageUrl": "/images/blog-post-9.jpg",
+      "excerpt": "Dicas e receitas para um almoço de domingo inesquecível.",
+      "fullContent": "<p>Texto completo do post...</p><h2>Domingo Especial</h2><p>Organização e receitas...</p>"
+    },
+    {
+      "id": "10",
+      "title": "Cozinha Internacional: Sabores do Mundo",
+      "author": "Lucas Martins",
+      "date": "16 de Novembro de 2024",
+      "imageUrl": "/images/blog-post-10.jpg",
+      "excerpt": "Explore receitas de diferentes culturas ao redor do mundo.",
+      "fullContent": "<p>Texto completo do post...</p><h2>Explorando Sabores</h2><p>Receitas e curiosidades...</p>"
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "1",
+      "name": "João Santos",
+      "email": "joao.santos@example.com",
+      "suggestionType": "recipe",
+      "suggestion": "Que tal uma seção de receitas rápidas para café da manhã?",
+      "date": "20 de Novembro de 2024"
+    },
+    {
+      "id": "2",
+      "name": "Ana Costa",
+      "email": "ana.costa@example.com",
+      "suggestionType": "improvement",
+      "suggestion": "Seria ótimo ter um modo noturno no site.",
+      "date": "18 de Novembro de 2024"
+    },
+    {
+      "id": "3",
+      "name": "Carlos Oliveira",
+      "email": "carlos.oliveira@example.com",
+      "suggestionType": "feedback",
+      "suggestion": "A navegação no site é ótima, mas senti falta de um filtro por ingredientes.",
+      "date": "16 de Novembro de 2024"
+    },
+    {
+      "id": "4",
+      "name": "Beatriz Almeida",
+      "email": "beatriz.almeida@example.com",
+      "suggestionType": "recipe",
+      "suggestion": "Uma receita de bolo vegano de chocolate seria perfeita!",
+      "date": "15 de Novembro de 2024"
+    },
+    {
+      "id": "5",
+      "name": "Lucas Martins",
+      "email": "lucas.martins@example.com",
+      "suggestionType": "other",
+      "suggestion": "Que tal incluir uma seção de dicas de compras de ingredientes?",
+      "date": "13 de Novembro de 2024"
+    },
+    {
+      "id": "6",
+      "name": "Fernanda Silva",
+      "email": "fernanda.silva@example.com",
+      "suggestionType": "feedback",
+      "suggestion": "Amei o design do site, está muito moderno e intuitivo.",
+      "date": "12 de Novembro de 2024"
+    },
+    {
+      "id": "7",
+      "name": "Rafael Castro",
+      "email": "rafael.castro@example.com",
+      "suggestionType": "improvement",
+      "suggestion": "Seria útil poder salvar receitas como favoritas.",
+      "date": "11 de Novembro de 2024"
+    },
+    {
+      "id": "8",
+      "name": "Juliana Mendes",
+      "email": "juliana.mendes@example.com",
+      "suggestionType": "recipe",
+      "suggestion": "Gostaria de aprender receitas com menos sódio.",
+      "date": "10 de Novembro de 2024"
+    },
+    {
+      "id": "9",
+      "name": "Marcos Lima",
+      "email": "marcos.lima@example.com",
+      "suggestionType": "other",
+      "suggestion": "Poderia haver uma integração com listas de mercado.",
+      "date": "8 de Novembro de 2024"
+    },
+    {
+      "id": "10",
+      "name": "Clara Ribeiro",
+      "email": "clara.ribeiro@example.com",
+      "suggestionType": "feedback",
+      "suggestion": "Parabéns pela iniciativa! O site está incrível.",
+      "date": "7 de Novembro de 2024"
+    }
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "titulo": "Bolo de Chocolate Fácil",
+      "descricao": "Esse é o MELHOR BOLO DE CHOCOLATE da vida inteira! Aqui em casa, ele é o bolo oficial e sempre faço ele desse jeito mesmo, na assadeira e ali fica, nem desenformo. ",
+      "thumbnail": "https://img.youtube.com/vi/QFMxJWh3mqE/0.jpg",
+      "url": "https://www.youtube.com/embed/QFMxJWh3mqE"
+    },
+    {
+      "id": "2",
+      "titulo": "Strogonoff de Frango Perfeito",
+      "descricao": "Receita tradicional de strogonoff com dicas secretas ",
+      "thumbnail": "https://img.youtube.com/vi/qAcrlw_SSd4/0.jpg",
+      "url": "https://www.youtube.com/embed/qAcrlw_SSd4"
+    },
+    {
+      "id": "3",
+      "titulo": "Pão Caseiro Para Iniciantes",
+      "descricao": "Essa é uma receita para quem nunca fez pão ou já tentou fazer e não deu certo. Vamos usar somente 4 ingredientes básicos e nenhum utensílio especial para conseguir um delicioso pão com casca crocante e um miolo bem macio",
+      "thumbnail": "https://img.youtube.com/vi/nAWHwvnO5SY/0.jpg",
+      "url": "https://www.youtube.com/embed/nAWHwvnO5SY"
+    },
+    {
+      "id": "4",
+      "titulo": "Lasanha Bolonhesa Com Requeijão | A Mais Cremosa ",
+      "descricao": "Essa combinação de molho a bolonhesa com requeijão fica perfeita! Recomendo que experimente!",
+      "thumbnail": "https://img.youtube.com/vi/NaUAOooqle0/0.jpg",
+      "url": "https://www.youtube.com/embed/NaUAOooqle0"
+    }
+  ]
+}
