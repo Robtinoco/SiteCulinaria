@@ -59,12 +59,6 @@ npm run dev
 - `RecipeDetail.jsx`: Detalhes específicos de cada receita
 - `Login.jsx`: Autenticação de usuários
 
-## Funcionalidades
-
-- Cadastro com verificação de e-mail
-- Login seguro com sistema de tokens
-- Publicação de receitas com título, ingredientes e passos
-
 **Contribuidores:**
 - Dagoberto do Nascimento(https://github.com/DagobertoCadilhe)
 - Roberto Tinoco (https://github.com/Robtinoco)
