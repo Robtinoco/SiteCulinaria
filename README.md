@@ -29,23 +29,18 @@ FoodBytes é uma aplicação web e mobile dedicada a criar uma comunidade intera
 
 ### Instalação
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/ThiagoBianchini/SiteCulinariaPB.git
-```
-
-2. Instale as dependências:
+1. Instale as dependências:
 ```bash
 cd SiteCulinariaPB
 npm install
 ```
 
-3. Inicie o servidor da API:
+2. Inicie o servidor da API:
 ```bash
 npx json-server --watch db.json --port 3001
 ```
 
-4. Inicie a aplicação web:
+3. Inicie a aplicação web:
 ```bash
 npm run dev
 ```
