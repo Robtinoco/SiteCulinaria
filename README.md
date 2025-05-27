@@ -74,9 +74,6 @@ npm run dev
 - Roberto Tinoco
 - João Gabriel
 
-**E-mail:** contato@foodbytes.com
-**Telefone:** 123-456-7890
-
 ## Contribuição
 
 Por favor, leia as diretrizes de contribuição antes de submeter pull requests.
