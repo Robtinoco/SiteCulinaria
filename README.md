@@ -69,9 +69,9 @@ npm run dev
 ## Contato
 
 **Líderes do Projeto:**
-- Dagoberto do Nascimento
-- Thiago Costa
-- Roberto Tinoco
+- Roberto Tinoco (https://github.com/Robtinoco)
+- Dagoberto do Nascimento(https://github.com/DagobertoCadilhe)
+- Thiago Costa (https://github.com/ThiagoBianchini)
 - João Gabriel
 
 ## Contribuição
