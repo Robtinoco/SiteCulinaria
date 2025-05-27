@@ -66,7 +66,7 @@ npm run dev
 - Publicação de receitas com título, ingredientes e passos
 - Moderação de conteúdo
 
-##Contribuidores:
+**Contribuidores:**
 - Dagoberto do Nascimento(https://github.com/DagobertoCadilhe)
 - Roberto Tinoco (https://github.com/Robtinoco)
 - Thiago Costa (https://github.com/ThiagoBianchini)
